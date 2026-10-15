@@ -1,24 +1,24 @@
-                 ██████╗  ███████╗
-                ██╔════╝  ██╔════╝
-                ██║       █████╗
-                ██║       ██╔══╝
-                ╚██████╗  ███████╗
-                 ╚═════╝  ╚══════╝
+```text
+                 █████╗ ███╗   ███╗
+                ██╔══██╗████╗ ████║
+                ███████║██╔████╔██║
+                ██╔══██║██║╚██╔╝██║
+                ██║  ██║██║ ╚═╝ ██║
+                ╚═╝  ╚═╝╚═╝     ╚═╝
 
-             [ YOUR NAME / USERNAME ]
+                  AmirKurmanov
+          Backend Developer • Bot Developer
 
-> Backend Developer in progress
-
-Role:       Aspiring Backend Developer
-Focus:      Backend Development
-Languages:  Python, SQL
-Backend:    FastAPI, Django
-Database:   PostgreSQL
-Tools:      Git, Linux, Docker
-Learning:   APIs, System Design
-
-Interests:  Backend • Open Source • Linux
+Role:        Backend Developer
+Focus:       Web Applications & Telegram Bots
+Languages:   Python, SQL
+Backend:     Django, FastAPI
+Database:    PostgreSQL, MySQL
+Tools:       Git, Linux, Docker
+Interests:   Cybersecurity, Open Source
+Learning:    REST APIs, System Design
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 > Code. Learn. Build. Repeat.
+```
