@@ -1,16 +1,24 @@
-## Hi there 👋
+                 ██████╗  ███████╗
+                ██╔════╝  ██╔════╝
+                ██║       █████╗
+                ██║       ██╔══╝
+                ╚██████╗  ███████╗
+                 ╚═════╝  ╚══════╝
 
-<!--
-**AmirKurmanov/AmirKurmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+             [ YOUR NAME / USERNAME ]
 
-Here are some ideas to get you started:
+> Backend Developer in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Role:       Aspiring Backend Developer
+Focus:      Backend Development
+Languages:  Python, SQL
+Backend:    FastAPI, Django
+Database:   PostgreSQL
+Tools:      Git, Linux, Docker
+Learning:   APIs, System Design
+
+Interests:  Backend • Open Source • Linux
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> Code. Learn. Build. Repeat.
