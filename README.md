@@ -20,5 +20,6 @@ Learning:    REST APIs, System Design
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> Code. Learn. Build. Repeat.
+> «Oh, I'm not like the vibe coders at all.
+  Some would say I'm the reverse.»
 ```
