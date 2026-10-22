@@ -1,25 +1,62 @@
+```md
+<div align="center">
+
 ```text
-                 █████╗ ███╗   ███╗
-                ██╔══██╗████╗ ████║
-                ███████║██╔████╔██║
-                ██╔══██║██║╚██╔╝██║
-                ██║  ██║██║ ╚═╝ ██║
-                ╚═╝  ╚═╝╚═╝     ╚═╝
+                 .-""""""""-.
+              .-'  .------.  '-.
+             /    /        \    \
+            /    |  .----.  |    \
+           |     |  |    |  |     |
+           |     |  '----'  |     |
+           |      \        /      |
+            \      '------'      /
+             '-.              .-'
+                '------------'
+             .------------------.
+            /  /              \  \
+           /__/                \__\
+          /                        \
+         /__________________________\
 
-                  AmirKurmanov
-          Backend Developer • Bot Developer
+```
 
-Role:        Backend Developer
-Focus:       Web Applications & Telegram Bots
-Languages:   Python, SQL
-Backend:     FastAPI
-Database:    PostgreSQL
-Tools:       Git, Docker
-Interests:   Cybersecurity, Open Source
-Learning:    REST APIs, System Design
+# AmirKurmanov
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Backend Developer • Telegram Bot Developer**
 
-> «Oh, I'm not like the vibe coders at all.
-  Some would say I'm the reverse.»
+*Web Applications · Telegram Bots · Cybersecurity*
+
+</div>
+
+---
+
+### `> about_me`
+
+I am a backend developer focused on web application and Telegram bot development, with a strong interest in cybersecurity.
+
+### `> tech_stack`
+
+- **Languages:** Python, SQL
+- **Backend:** Django, FastAPI
+- **Databases:** PostgreSQL, MySQL
+- **Telegram Bots:** aiogram, python-telegram-bot
+- **Tools:** Git, GitHub, Linux, Docker
+
+### `> interests`
+
+- Cybersecurity
+- Open Source
+- Linux & Backend Architecture
+
+### `> currently_learning`
+
+- REST APIs
+- System Design
+- Advanced Python
+
+---
+
+```text
+> "Oh, I'm not like the vibe coders at all.
+  Some would say I'm the reverse."
 ```
