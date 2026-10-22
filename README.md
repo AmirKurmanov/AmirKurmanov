@@ -1,12 +1,25 @@
-┌──(Amir㉿github)-[~]
-└─$ whoami
-AmirKurmanov
+```text
+                 █████╗ ███╗   ███╗
+                ██╔══██╗████╗ ████║
+                ███████║██╔████╔██║
+                ██╔══██║██║╚██╔╝██║
+                ██║  ██║██║ ╚═╝ ██║
+                ╚═╝  ╚═╝╚═╝     ╚═╝
 
-┌──(profile)-[backend]
-│ Role      : Backend Developer
-│ Focus     : Web Apps & Telegram Bots
-│ Languages : Python, SQL
-│ Stack     : Django, FastAPI
-│ Database  : PostgreSQL, MySQL
-│ Interests : Cybersecurity, Open Source
-└──────────────────────────────
+                  AmirKurmanov
+          Backend Developer • Bot Developer
+
+Role:        Backend Developer
+Focus:       Web Applications & Telegram Bots
+Languages:   Python, SQL
+Backend:     Django, FastAPI
+Database:    PostgreSQL, MySQL
+Tools:       Git, Linux, Docker
+Interests:   Cybersecurity, Open Source
+Learning:    REST APIs, System Design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> «Oh, I'm not like the vibe coders at all.
+  Some would say I'm the reverse.»
+```
