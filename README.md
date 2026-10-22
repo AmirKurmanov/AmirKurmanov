@@ -1,13 +1,11 @@
 ```md
 <div align="center">
 
-
-
-# AmirKurmanov
+# `AmirKurmanov`
 
 **Backend Developer • Telegram Bot Developer**
 
-*Web Applications · Telegram Bots · Cybersecurity*
+`Web Applications` • `Telegram Bots` • `Cybersecurity`
 
 </div>
 
@@ -19,21 +17,33 @@ I am a backend developer focused on web application and Telegram bot development
 
 ### `> tech_stack`
 
-- **Languages:** Python, SQL
-- **Backend:** Django, FastAPI
-- **Databases:** PostgreSQL, MySQL
-- **Telegram Bots:** aiogram, python-telegram-bot
-- **Tools:** Git, GitHub, Linux, Docker
+```text
+[ LANGUAGES ]
+Python • SQL
+
+[ BACKEND ]
+Django • FastAPI • REST APIs
+
+[ DATABASES ]
+PostgreSQL • MySQL
+
+[ TELEGRAM BOTS ]
+aiogram • python-telegram-bot
+
+[ TOOLS ]
+Git • GitHub • Linux • Docker
+```
 
 ### `> interests`
 
 - Cybersecurity
 - Open Source
-- Linux & Backend Architecture
+- Linux
+- Backend Architecture
 
 ### `> currently_learning`
 
-- REST APIs
+- REST API Development
 - System Design
 - Advanced Python
 
