@@ -12,8 +12,8 @@
 Role:        Backend Developer
 Focus:       Web Applications & Telegram Bots
 Languages:   Python, SQL
-Backend:     Django, FastAPI
-Database:    PostgreSQL, MySQL
+Backend:     FastAPI
+Database:    PostgreSQL
 Tools:       Git, Linux, Docker
 Interests:   Cybersecurity, Open Source
 Learning:    REST APIs, System Design
